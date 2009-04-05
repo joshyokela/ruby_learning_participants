@@ -58,6 +58,3 @@ Change log:
 10th Oct: Updated data files (forpc101-7c.html and forpc101-8c.html)
 --------------------------------------------------------------------
 
-Cheers,
-ashbb (Satoshi Asakawa)
-http://rubylearning.org
